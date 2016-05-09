@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/10/03 11:42:58.064.pas,C:\Users\gilmar\Desktop\Leitor OFX\uYMOFXReader.pas=C:\Users\gilmar\Desktop\Leitor OFX\Unit1.pas</Transaction>
+    <Transaction>2012/10/04 16:58:08.803.dproj,C:\Users\gilmar\Desktop\Leitor OFX\LeitorOFX.dproj=C:\Users\gilmar\Desktop\Leitor OFX\MDIAPP.dproj</Transaction>
+    <Transaction>2012/10/05 08:28:06.650.dproj,C:\Users\gilmar\Desktop\Leitor OFX\Lex.dproj=C:\Users\gilmar\Desktop\Leitor OFX\LeitorOFX.dproj</Transaction>
+    <Transaction>2012/10/05 08:52:36.337.pas,C:\Users\gilmar\Desktop\Leitor OFX\Splash.pas=C:\Users\gilmar\Desktop\Leitor OFX\Unit1.pas</Transaction>
+    <Transaction>2012/10/05 08:52:36.337.dfm,C:\Users\gilmar\Desktop\Leitor OFX\Splash.dfm=C:\Users\gilmar\Desktop\Leitor OFX\Unit1.dfm</Transaction>
+    <Transaction>2012/10/05 08:53:24.092.dfm,C:\Users\gilmar\Desktop\Leitor OFX\uSplash.dfm=C:\Users\gilmar\Desktop\Leitor OFX\Splash.dfm</Transaction>
+    <Transaction>2012/10/05 08:53:24.092.pas,C:\Users\gilmar\Desktop\Leitor OFX\uSplash.pas=C:\Users\gilmar\Desktop\Leitor OFX\Splash.pas</Transaction>
+  </Transactions>
+</BorlandProject>
